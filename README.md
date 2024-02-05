@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sameershrestha911@gmail.com**
 
-- ⚡ Fun fact **I think I am a virus**
+- ⚡ Fun fact **Bee's make milk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
