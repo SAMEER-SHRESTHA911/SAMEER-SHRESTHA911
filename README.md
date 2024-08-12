@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Fullstackopen-2023](https://github.com/SAMEER-SHRESTHA911/Fullstack-2023)
 
-- 🌱 I’m currently learning **React, Machine Learning**
+- 🌱 I’m currently learning **Angular & rxJS**
 
-- 🤝 I’m looking for help with **Aspect Based Sentiment Analysis in Nepali text**
+- 🤝 I’m looking for help with **ngrxStore and Unit Testing in Angular**
 
 - 📫 How to reach me **sameershrestha911@gmail.com**
 
