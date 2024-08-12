@@ -3,7 +3,7 @@
 <h3 align="center">Learning a bit, Enjoying a lot</h3>
 <img align="right" alt="Cowboy Bebop" width="400" src="https://i.pinimg.com/originals/d3/0c/7d/d30c7dfdd9c46b494b574bae8fec9e97.gif">
 
-- 🔭 I’m currently working on [Fullstackopen-2023](https://github.com/SAMEER-SHRESTHA911/Fullstack-2023)
+- 🔭 I’m currently working on [Angular(18/17/16)]
 
 - 🌱 I’m currently learning **Angular & rxJS**
 
