@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Angular(18/17/16)]
 
-- 🌱 I’m currently learning **Angular & rxJS**
+- 🌱 I’m currently learning **Angular, rxJS & ngrxStore**
 
 - 🤝 I’m looking for help with **ngrxStore and Unit Testing in Angular**
 
-- 📫 How to reach me **sameershrestha911@gmail.com**
+- 📫 How to reach me **samirstha2002@gmail.com**
 
 - ⚡ Fun fact **  I tell computers to do stuff and sometimes they listen  **
 
