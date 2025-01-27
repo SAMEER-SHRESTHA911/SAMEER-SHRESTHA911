@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **  I tell computers to do stuff and sometimes they listen  **
 
+- 💻 Trying to learn learn the architecture and how the system works...so I can afford my hobbies.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sameer-shrestha-6530b2227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameer-shrestha-6530b2227" height="30" width="40" /></a>
