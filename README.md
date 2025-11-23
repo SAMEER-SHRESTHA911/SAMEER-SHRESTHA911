@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Angular(18/17/16)]
 
-- 🌱 I’m currently learning **Angular, rxJS & ngrxStore**
+- 🌱 I’m currently learning **Angular, Java & Flutter**
 
-- 🤝 I’m looking for help with **ngrxStore and Unit Testing in Angular**
+- 🤝 I’m looking for help with **Flutter & Java**
 
 - 📫 How to reach me **samirstha2002@gmail.com**
 
